@@ -1,0 +1,25 @@
+#surefire
+#Fri Mar 01 10:11:43 CST 2019
+testClassesDirectory=D\:\\workspace\\simple-spring\\target\\test-classes
+classPathUrl.4=D\:\\maven\\.m2\\repository\\org\\projectlombok\\lombok\\1.16.20\\lombok-1.16.20.jar
+forkMode=once
+classPathUrl.3=D\:\\maven\\.m2\\repository\\commons-io\\commons-io\\2.4\\commons-io-2.4.jar
+classPathUrl.2=D\:\\maven\\.m2\\repository\\javax\\servlet\\javax.servlet-api\\3.0.1\\javax.servlet-api-3.0.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\workspace\\simple-spring\\target\\classes
+reportsDirectory=D\:\\workspace\\simple-spring\\target\\surefire-reports
+classPathUrl.0=D\:\\workspace\\simple-spring\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\workspace\\simple-spring\\src\\test\\java
+surefireClassPathUrl.1=D\:\\maven\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=D\:\\maven\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
